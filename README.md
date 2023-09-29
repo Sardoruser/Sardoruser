@@ -1,3 +1,4 @@
+# all files in 'new file' are fun games created in Python
 - 👋 Hi, I’m @Sardoruser
 - 👀 I’m interested in coding with Python programming language.
 - 🌱 I’m currently learning how to create a python simple games.
